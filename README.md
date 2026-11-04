@@ -43,11 +43,9 @@ Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public relea
 
 ## Mail, with you in control
 
-![A native COD draft prepared by Guild Bounty](docs/images/cod-mail.png)
-
 **Find → accept → visit a mailbox → Prepare delivery → review → manually Send → recipient accepts COD.**
 
-**COD receipt and payment are recorded automatically after confirmed collection.** The board images are actual in-game screenshots using display-only example names, materials, rare BoE items and PvP targets. The native mail image is an earlier gameplay capture: its instruction to record the claim paid manually is obsolete. Current confirmed COD collection updates the claim automatically while both players have the addon enabled. Gold is not escrowed, and the addon cannot bypass server mail restrictions. Unrelated mail or simply opening the inbox does not mark a bounty paid.
+**COD receipt and payment are recorded automatically after confirmed collection.** The board images are actual in-game screenshots using display-only example names, materials, rare BoE items and PvP targets. Current confirmed COD collection updates the claim automatically while both players have the addon enabled. Gold is not escrowed, and the addon cannot bypass server mail restrictions. Unrelated mail or simply opening the inbox does not mark a bounty paid.
 
 Guild communication requires guild membership. Without a guild, you can create local requests, run the tour and use the local COD test. All participating guildmates should install the same release.
 
