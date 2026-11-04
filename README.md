@@ -8,9 +8,13 @@ Guild Bounty Forever turns those moments into a shared bounty board: ask for an 
 
 Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public release **1.0.0**.
 
-![Illustrative demo board with crafting materials, rare BoE items and example PvP bounties](docs/images/bounty-board-demo.png)
+![In-game demo board with crafting materials, rare BoE items and example PvP bounties](docs/images/game-board.png)
 
-*Illustrative demo with example listings; no live bounties are created.*
+*Actual in-game capture using isolated example listings. No live bounties are created.*
+
+![Item requests captured in game](docs/images/game-items.png)
+
+![PvP bounties captured in game, including Shobek Shadowleaf at 1,000g](docs/images/game-pvp.png)
 
 ## From unwanted loot to wanted loot
 
@@ -43,7 +47,7 @@ Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public relea
 
 **Find → accept → visit a mailbox → Prepare delivery → review → manually Send → recipient accepts COD.**
 
-**COD receipt and payment are recorded automatically after confirmed collection.** The board above is an illustrative demo with example names, materials, rare BoE items and PvP targets. The native mail image is an earlier gameplay capture: its instruction to record the claim paid manually is obsolete. Current confirmed COD collection updates the claim automatically while both players have the addon enabled. Gold is not escrowed, and the addon cannot bypass server mail restrictions. Unrelated mail or simply opening the inbox does not mark a bounty paid.
+**COD receipt and payment are recorded automatically after confirmed collection.** The board images are actual in-game screenshots using display-only example names, materials, rare BoE items and PvP targets. The native mail image is an earlier gameplay capture: its instruction to record the claim paid manually is obsolete. Current confirmed COD collection updates the claim automatically while both players have the addon enabled. Gold is not escrowed, and the addon cannot bypass server mail restrictions. Unrelated mail or simply opening the inbox does not mark a bounty paid.
 
 Guild communication requires guild membership. Without a guild, you can create local requests, run the tour and use the local COD test. All participating guildmates should install the same release.
 
@@ -71,6 +75,6 @@ Terminal regression checks cover identity, migration, synchronization, loot matc
 
 Found a problem? Open an issue with the addon version, steps to reproduce and `/gbf status`. Do not upload account folders or SavedVariables containing other players' data.
 
-Demo PvP targets include **Ironfoe Thundercog** and **Shobek Shadowleaf**, with an illustrative **1,000g** reward on Shobek. These images do not create or advertise a live contract.
+Demo PvP targets include **Ironfoe Thundercog** and **Shobek Shadowleaf**, with an example **1,000g** reward on Shobek. These images do not create or advertise a live contract.
 
 Made by **Ironfoe Thundercog**. No real-money donations. Enjoy WoW Forever :)
