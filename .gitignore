@@ -1,0 +1,8 @@
+GuildBountyForever-*.zip
+dist/
+__pycache__/
+*.pyc
+*.luac
+.DS_Store
+WTF/
+*.bak
