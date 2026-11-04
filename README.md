@@ -8,7 +8,7 @@ Guild Bounty Forever turns those moments into a shared bounty board: ask for an 
 
 Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public release **1.0.0**.
 
-![Illustrative demo board with crafting materials, rare BoE items and example PvP bounties](docs/images/bounty-board.png)
+![Illustrative demo board with crafting materials, rare BoE items and example PvP bounties](docs/images/bounty-board-demo.png)
 
 *Illustrative demo with example listings; no live bounties are created.*
 
