@@ -8,7 +8,9 @@ Guild Bounty Forever turns those moments into a shared bounty board: ask for an 
 
 Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public release **1.0.0**.
 
-![The Guild Bounty board, with requests, claims and completed deliveries](docs/images/bounty-board.png)
+![Illustrative demo board with crafting materials, rare BoE items and example PvP bounties](docs/images/bounty-board.png)
+
+*Illustrative demo with example listings; no live bounties are created.*
 
 ## From unwanted loot to wanted loot
 
@@ -27,6 +29,7 @@ Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public relea
 | You want… | Create… | What happens next |
 |---|---|---|
 | Boar Ribs for cooking | Exact Item, quantity 20, your total reward | Guildmates matching the item can arrange a partial or full delivery. |
+| A rare BoE upgrade | Exact Item: Feet of the Lynx or Robe of the Magi | A matching acquisition prompts a guildmate to arrange delivery. |
 | A useful leveling weapon | Rule Request: Weapon → Two-Handed Maces → Two-Hand, required level 20–30 | Compatible drops become candidates without specifying an item ID. |
 | Strength **and** Stamina | Add and Apply separate minimum-stat rows | Every applied criterion must match. Edit/remove rows independently. |
 | Materials without chasing sellers | Exact Item plus a note explaining your order | A supplier accepts, visits mail and prepares a COD draft. |
@@ -40,7 +43,7 @@ Built for **World of Warcraft Forever 1.60.1 — interface 16001**. Public relea
 
 **Find → accept → visit a mailbox → Prepare delivery → review → manually Send → recipient accepts COD.**
 
-The screenshots are real development gameplay captures; labels and layout may differ slightly from 1.0.0. The mail capture predates automatic receipt recording. Current confirmed COD collection updates the claim automatically while both players have the addon enabled. Gold is not escrowed, and the addon cannot bypass server mail restrictions. Unrelated mail or simply opening the inbox does not mark a bounty paid.
+**COD receipt and payment are recorded automatically after confirmed collection.** The board above is an illustrative demo with example names, materials, rare BoE items and PvP targets. The native mail image is an earlier gameplay capture: its instruction to record the claim paid manually is obsolete. Current confirmed COD collection updates the claim automatically while both players have the addon enabled. Gold is not escrowed, and the addon cannot bypass server mail restrictions. Unrelated mail or simply opening the inbox does not mark a bounty paid.
 
 Guild communication requires guild membership. Without a guild, you can create local requests, run the tour and use the local COD test. All participating guildmates should install the same release.
 
@@ -67,5 +70,7 @@ The project includes runtime Lua, original heart artwork, regression tests and p
 Terminal regression checks cover identity, migration, synchronization, loot matching, forms, tutorial isolation, mail tracking and the heart flow. Native rendering and two-client server behavior require in-game verification. This package targets Forever; compatibility with Retail, Classic or other client interfaces is not claimed.
 
 Found a problem? Open an issue with the addon version, steps to reproduce and `/gbf status`. Do not upload account folders or SavedVariables containing other players' data.
+
+Demo PvP targets include **Ironfoe Thundercog** and **Shobek Shadowleaf**, with an illustrative **1,000g** reward on Shobek. These images do not create or advertise a live contract.
 
 Made by **Ironfoe Thundercog**. No real-money donations. Enjoy WoW Forever :)
