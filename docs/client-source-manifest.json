@@ -1,0 +1,472 @@
+{
+  "product": "wowf",
+  "version": "1.60.1.70707",
+  "interface": 16001,
+  "extractedFiles": [
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/builddocumentation.lua",
+      "bytes": 2485,
+      "sha256": "3ecce82ac9cfd7a5140b2278f753a55756cd961d39205745efe9aaf1609ffea6"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/charactercreationconstantsdocumentation.lua",
+      "bytes": 1397,
+      "sha256": "44e186d01f03e1aa9d510cf50dbc122a5b9622229d46768bf56e9b4c1acf00d1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/chatinfodocumentation.lua",
+      "bytes": 132990,
+      "sha256": "996cf3c4956d7d79716c082fa7bccf06e008fd191f108c85546f9fdec66e1a73"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/combatlogdocumentation.lua",
+      "bytes": 2910,
+      "sha256": "bfd85196ca5a5644f3598c9ae1b08f6f97483b5ad2d49c920039a24fcf66786a"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/combatloginternaldocumentation.lua",
+      "bytes": 547,
+      "sha256": "0f428b4552c157175e5d2595010be4f9c25a83447f5d561fb181c408394a6e82"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/combatlogsecuredocumentation.lua",
+      "bytes": 3307,
+      "sha256": "e3e590f92eb9b59c0720bbce437703ca153ed0c657155490816c0509d007b66b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/combatlogshareddocumentation.lua",
+      "bytes": 500,
+      "sha256": "ecaac62be6f8bf82e205c3c8cd0a45ad1022f1df6d88549d8a82a3ed9c6c34d5"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/containerdocumentation.lua",
+      "bytes": 19085,
+      "sha256": "dd3e4741d45720384f814d3f78ce975dab3951458ae894e728ed3aedc8ae56b3"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/currencyinfodocumentation.lua",
+      "bytes": 18116,
+      "sha256": "4469ef929c58223c45371876e4364478be0397578f72cc24415f31fa060b47a1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/cursordocumentation.lua",
+      "bytes": 1496,
+      "sha256": "509579c7cc270afd395c251c6a03284c67c86593d190e5c3798c8c71e75b678f"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/districtconstantsdocumentation.lua",
+      "bytes": 760,
+      "sha256": "03df6cf000c26f27cab273b5a3259eceda1b6a2be05dfb42d98d2a61751f0129"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/gamecursordocumentation.lua",
+      "bytes": 3049,
+      "sha256": "2e23295a8ba6a3637560848b92266763598d098e546041f080f0e42e732e63fd"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/gamerulesconstantsdocumentation.lua",
+      "bytes": 1304,
+      "sha256": "d82367a9a16df6e7185b1a53c658b9f2f4bd2ae8cacc909ac3a610b50dfe1ed5"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/gamerulesdocumentation.lua",
+      "bytes": 9556,
+      "sha256": "160341d4bd06813bcd2a2642b6529cb1f9aebc4bd06daf46340443e4b0329f4b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/guildinfodocumentation.lua",
+      "bytes": 17244,
+      "sha256": "ff45924dd00da1b96a6de71e50dc32ba273e3ce261d19b6251d4f2e339240439"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/guildinfoshareddocumentation.lua",
+      "bytes": 606,
+      "sha256": "0183ad92031653c8b3d03fa044d2237a4efccea9c6b00b034f9b550ca326bd47"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/itemdocumentation.lua",
+      "bytes": 44454,
+      "sha256": "59c5dd2f70757cdb9bc4511cb0fafe6287bbfb51d58a7389097dcbb485785af0"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/mailinfodocumentation.lua",
+      "bytes": 3570,
+      "sha256": "6618a33f99dfce405b314ff4abfcc8cfeec06869595182449b7a78dbb9a43ae1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/nameutildocumentation.lua",
+      "bytes": 653,
+      "sha256": "bcf55a13a1896f27924715c0da45df888d8206386f313736300248ffedd79286"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/playerinfodocumentation.lua",
+      "bytes": 8140,
+      "sha256": "1b48d47177ec5957d0f04160a1ab12aafbbe89da4f142437e0a83e05d4b54311"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/pvpinfodocumentation.lua",
+      "bytes": 50502,
+      "sha256": "f03f2b9b6ebb4fa4be24ad8f1d078cd70e8a50dcb02713a707901b92237a216a"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/simpleeditboxapidocumentation.lua",
+      "bytes": 17005,
+      "sha256": "aa932f643f66a880c6191043f7597b59d0c9f45df86f229c0322013d533a1aa8"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_apidocumentationgenerated/unitdocumentation.lua",
+      "bytes": 121154,
+      "sha256": "a823e84f90fabe58d9ffe547ea17eae83708d451e593b4052bce002cc02ce5c1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_characterselectnavbar/camelot/characterselectnavbar.lua",
+      "bytes": 6726,
+      "sha256": "c1b8b54fa090aed52e6b0d3999f9e1decf084f4789e07a69b586341d5032a532"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/blizzard_chatframebase.toc",
+      "bytes": 2137,
+      "sha256": "437d19be7f1382e192fa63f638c289ba07d370d0cf1820b50cb5dff322d5e864"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/camelot/chatframeutiloverrides.lua",
+      "bytes": 1588,
+      "sha256": "cfbe6e593d0f5b1bfa02b27f412a3cfe385fdd744c24e93b1d049b52a6ccfd6e"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/mainline/chatframeoverrides.lua",
+      "bytes": 30208,
+      "sha256": "80e9c27b5dce4be9c8581d1bf3b452ef48a816fc13e8cac85454e42af3fd4c66"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/mainline/chatframeutiloverrides.lua",
+      "bytes": 6708,
+      "sha256": "c6bd33f1c12c6fae81b09ba1efc04b041c758197fd581c9568f7266d8c9e4d47"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/shared/chatframe.lua",
+      "bytes": 7551,
+      "sha256": "d9252b748f715d0c793ca265df10bd9c6ed80875a12f56d9b4343be46a43c856"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/shared/chatframeeditbox.lua",
+      "bytes": 26874,
+      "sha256": "32be53ef023046a4c307d00908bf882123ac923fb562e2860eeb4e02b7ae666b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/shared/chatframesetup.lua",
+      "bytes": 944,
+      "sha256": "9c8e654e7e83d2e31a2d1e7312c2cff32e17509b04a84ae5315a868107ddafe4"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframebase/shared/chatframeutil.lua",
+      "bytes": 40095,
+      "sha256": "7aefdf1e4f07d0804a0f44e5e434581a8c2888668f1ce641930aee8ec62ed527"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_chatframeutil/blizzard_chatframeutil.lua",
+      "bytes": 1107,
+      "sha256": "5ecf4d6a138a8f420f5e0fd98d095c31abc14101f8238f931b1cca93b2ec0de4"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_combatlogbase/combatlogutil.lua",
+      "bytes": 7403,
+      "sha256": "04b22c4ce9f2900923336c4fb89e8a72d10b7767fdfe4efb2d498e21f9a77999"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_combatlogprocessor/blizzard_combatlogprocessor.lua",
+      "bytes": 46131,
+      "sha256": "2e99e35cf6fe1e9a00c4a35dc2f3646a989d090804569970829fc34c14f524fa"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_combatlogprocessor/blizzard_combatlogprocessorinbound.lua",
+      "bytes": 334,
+      "sha256": "6d9757d06a3589772425ec5517efc18a2effae28f019b4a15c1aa4d174d9127b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_communities/guildroster.lua",
+      "bytes": 7434,
+      "sha256": "3369055528d32488fc9960e24707149c44d075616629ad4b3013f6e5211d924f"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_deprecatedchatinfo/deprecated_chatframe.lua",
+      "bytes": 7936,
+      "sha256": "fb61bdac757ec371b3787c56c0c8b35c393fc495eeea829605ec1840e8b70666"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_deprecatedcombatlog/deprecated_combatlog.lua",
+      "bytes": 7192,
+      "sha256": "d13d4b67c78a4d907086be0840c3884e1e737ba14dcab3c2eee394bd16fe22eb"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_framexmlutil/camelot/itemutil.lua",
+      "bytes": 168,
+      "sha256": "ee622ab2818f68804b59a71d5500a9b5f6df8253ad9ae02fc6b3621bcd3a505e"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_framexmlutil/camelot/nameutil.lua",
+      "bytes": 1639,
+      "sha256": "079dc0b6a6a3ffd90ceee8c5812f653067e53b04a8729729013e3122b0d41b6c"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_framexmlutil/itemutil.lua",
+      "bytes": 20554,
+      "sha256": "0da4727cef52516c566c4ddba5c10cb285c87a9fd919c41641d4340505e6d0f1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_framexmlutil/nameutil.lua",
+      "bytes": 2043,
+      "sha256": "a3bcd84721811a99be26737c31eec2779f94f68febd37f18531a718458910dfd"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_friendsframe/blizzard_friendsframe.toc",
+      "bytes": 850,
+      "sha256": "3c42673299bd0245bf754a325a0f9aa6de712691ac6fc6f6d7ef81e3cb7733c8"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_friendsframe/camelot/friendsframe.xml",
+      "bytes": 38296,
+      "sha256": "5e1684c91da319557075a220b7236a867fde4e178b89a67a5a365f0013fc666b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_gluexml/camelot/characterselect.lua",
+      "bytes": 266,
+      "sha256": "2295702407c6494891017229d580f68abc85284cf6205ec5e18f98e6ddff51d6"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_gluexml/camelot/characterselect/characterselectlist.lua",
+      "bytes": 1563,
+      "sha256": "0149b6d27456e2550ce31dbd54b133c00f05b3d48a27f8a2a96cea081aa50c26"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_gluexml/camelot/characterselect/characterselecttemplates.lua",
+      "bytes": 105,
+      "sha256": "b87c74423473fe608b214a60805dd3ba5e72699b78d3b817d53ad8988e362c3c"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_gluexml/camelot/characterselect/characterselectutil.lua",
+      "bytes": 2972,
+      "sha256": "2065198fa75c7ed7209a1c484ca493ea0cc94cd454a97b6db9648c512e6cdcda"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_gluexml/mainline/superdistrict.lua",
+      "bytes": 7695,
+      "sha256": "acfdadc0cd595d068591885a5c53e07b9bbc83208639e4f255af03cf1e84db1d"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_itembutton/mainline/itembuttontemplate.lua",
+      "bytes": 15687,
+      "sha256": "9fe8cd82b6349075f553f2b48f3df846af7216c7caad6bc4f8ef3d8e4b8cc05f"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_itembutton/shared/itembuttontemplate.lua",
+      "bytes": 8112,
+      "sha256": "73e1b7e58d78ca6b50964bb2993448ea913859505a57af8c490076a495273532"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_itembutton/shared/itembuttontemplate.xml",
+      "bytes": 3522,
+      "sha256": "fc00e397ed87a3e5478e8854e8ab3d2d6f3c634d5ea983f336be0112df86a9cd"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_mailframe/mailframe.lua",
+      "bytes": 57929,
+      "sha256": "c9de9bd6681091e4bc97b5564d2010cd8f6aefeee9c0cdbed785e6479e414f92"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_mailframe/mailframe.xml",
+      "bytes": 52152,
+      "sha256": "3a03100b7ef9a4c2d9f2329d8ced633765f09e7c3c3834f418d78e1af3a87ffa"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_menu/camelot/menu.xml",
+      "bytes": 1721,
+      "sha256": "daaaf3ae6d1b948b740f1542fec8cd574dbe76c6ebdb7902f7a0cd7bd5fc419b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_menu/dropdownbutton.lua",
+      "bytes": 12489,
+      "sha256": "f7154567aba77da8fc95fc84b1bd2fa5437899cc2a916ed180086443a4a524c2"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_menu/dropdownbutton.xml",
+      "bytes": 854,
+      "sha256": "e778a01f8823ceead360d06fb4762fb9d717a6958d359fefb521ceae80adfc19"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_menu/menutemplates.xml",
+      "bytes": 3254,
+      "sha256": "6870e2c9ead8bcde8a9e3be5828c4004082ab275c246e3d36c6dcb403179a89d"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_moneyframe/shared/moneyframe.lua",
+      "bytes": 17938,
+      "sha256": "23ed2a4b521e3f7cdf0553f09cecfc4f40f0929ccade89aa4fcee177b18075f1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_moneyframe/shared/moneyframe.xml",
+      "bytes": 2811,
+      "sha256": "abae7d54f28da939ae8de1d569fe90ca2ef49160087bc26d8a9b7537a185db59"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_moneyframe/shared/moneyinputframe.xml",
+      "bytes": 2903,
+      "sha256": "71acdd3e64b57856a35260d65b980c6adcc3a88c33baae7346ebcd58f0971696"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_narration/blizzard_narrationeditbox.lua",
+      "bytes": 3667,
+      "sha256": "431f5c458bc11130ebb5e6a2876285c5297e4ab9e51fd84451479780ea170e45"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/blizzard_sharedxml.toc",
+      "bytes": 9061,
+      "sha256": "34afc42979942b48083ceaad785e3ffdd973326ac0b9b9afa5c23feb0da1c521"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/camelot/shareduipaneltemplates.lua",
+      "bytes": 431,
+      "sha256": "eb6afa1094632eff4c2e3691ee9bf948dc7ed5594d3a5434d1bb8560b4661850"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/commonuipaneltemplates.xml",
+      "bytes": 445,
+      "sha256": "f6d83fa17a22dc4b8fe90e7fc3574cc16d370cd88993fb0941d7bc613c677f20"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/gamerulesutil.lua",
+      "bytes": 7579,
+      "sha256": "ddde140e9411582cc38c8829136b38e95b7e2cc7320795283b9541fe6ecfa187"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/mainline/gamerulesutil.lua",
+      "bytes": 862,
+      "sha256": "74b97a75d7b2f6edc8901b50ec0c66baad2f7a76b311280a61bd23f205ae93c5"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/mainline/nineslicelayouts.lua",
+      "bytes": 25261,
+      "sha256": "94abdeb3ad55adf407f26d4b7e10ab3e86a904688b79558eeddb2bc4eefc1718"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/mainline/shareduipaneltemplates.lua",
+      "bytes": 74029,
+      "sha256": "f4a3d5931ae0fa5b1e0ba52a36333b74de1c98cca451669708d3353c70a5ee6c"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/mainline/shareduipaneltemplates.xml",
+      "bytes": 95253,
+      "sha256": "2c1a3541e9647b3f23b755c09e7f72c7029d520e1954bec823d9ea723c2fb484"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/shared/inputbox/inputboxtemplates.lua",
+      "bytes": 12084,
+      "sha256": "109f6a0591b9a9a3ff861edd089dced5b9a4d65f9726ee7197714a1aef424227"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/shared/inputbox/inputboxtemplates.xml",
+      "bytes": 18735,
+      "sha256": "8c9eee7385fa55ed9ce174340e7fd550c684d91cd3efb4147f79f8d8df7bea6b"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/shared/scroll/minimalscrollbar.xml",
+      "bytes": 6263,
+      "sha256": "31e04d37877c2e0fd5662ee5729536739a0be070bbd540b2783e480964781fad"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/shared/scroll/scrollbar.lua",
+      "bytes": 13453,
+      "sha256": "8451dd493b1f91e05aaed06e228f8f1ed525d875909723db05c4f49aa338c1c8"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/shared/tabsystem/tabsystemtemplates.lua",
+      "bytes": 10292,
+      "sha256": "380604974da528eb2d6c2e5cd7cb85d5411cea3b77872674c97b90da4a9602f1"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/shared/tabsystem/tabsystemtemplates.xml",
+      "bytes": 7809,
+      "sha256": "3628d842597dd604206d952d338b72acbbc3de81b07ee103abf4c2a38e3aae24"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/sharedbasiccontrols.lua",
+      "bytes": 4617,
+      "sha256": "057c45a6740d9675569a1b4fadf917d3dc02348cdecdb4b989326094cb5b1762"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_sharedxml/sharedconstants.lua",
+      "bytes": 9309,
+      "sha256": "1aa0dfa5374028e4fc9af288f17ba2353aaa2701013b31b89697dcf42240beb9"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_staticpopup/sharedtemplates.lua",
+      "bytes": 2836,
+      "sha256": "e5786d6384ee6b8b95ea00955b3fcc7def8a3bc87948698cca074fe8961fc8ee"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipanels_game/camelot/containerframe.lua",
+      "bytes": 453,
+      "sha256": "08b2ab2ce87a3eb272ee55ab29f0a1402625e5e177442c2fe00edbfb93d93d8d"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipanels_game/camelot/pvprankframe.lua",
+      "bytes": 10877,
+      "sha256": "2fcd2b8c260ade00cc0ba153a77881f58d81a021bd18127d2b9dba9d7a600797"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipanels_game/mainline/containerframe.lua",
+      "bytes": 118962,
+      "sha256": "3f87cbba136fef939f1e019a2b77ca8b6b7af08d7a720f62e2db5c952ca459d3"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipanels_game/mainline/itemref.lua",
+      "bytes": 17124,
+      "sha256": "9f6288b92e4d1937a14dc4b9105a2243bcb2f4acf6942dd92613a5b2214408f7"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipanels_game/shared/itemrefhandlersshared.lua",
+      "bytes": 12097,
+      "sha256": "42a99fe942403d6259957ec49aca712daab8f6e63d25297a6aa7a9be9438c342"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipaneltemplates/blizzard_uipaneltemplates.toc",
+      "bytes": 449,
+      "sha256": "13c092210b1d5c8a721b4f41bf4baeed66cc542839570ea4afa8d361add53b6c"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipaneltemplates/camelot/uipaneltemplatesoverrides.xml",
+      "bytes": 1864,
+      "sha256": "0d1d97fb52153c0c033f5c4e753169af0e4605f466f579d30d352e91ea52e903"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipaneltemplates/mainline/uipaneltemplates.lua",
+      "bytes": 9099,
+      "sha256": "0d7b78ad34141f4546969f45c5029fee9d5fd8b98fd5eadc2a74fb214857520f"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_uipaneltemplates/mainline/uipaneltemplates.xml",
+      "bytes": 62216,
+      "sha256": "1ab92968b71572560e2e8a8146d634ee5f5560d8e423a73611f29e09e4b0f13f"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_unitpopup/mainline/unitpopuputils.lua",
+      "bytes": 4682,
+      "sha256": "0d5841c31c6ce2321f91bc62da5032f189279f59ac3697fbbed4dbb4127de9bd"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_unitpopupshared/unitpopupsharedbuttonmixins.lua",
+      "bytes": 116708,
+      "sha256": "c8fd3964b6806b97f12b9354106c9bbb7c78830c3ea02d13bd88ec52ff9d3557"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_unitpopupshared/unitpopupsharedmenus.lua",
+      "bytes": 17793,
+      "sha256": "fa3dbd74bd8c5f0e2fbc159059ff263c7505cad1558200aad261bad93ddd6a33"
+    },
+    {
+      "clientPath": "interface/addons/blizzard_unitpopupshared/unitpopupsharedutils.lua",
+      "bytes": 6904,
+      "sha256": "8be04c927b5b43c14551dee2146dcf4d1a8daba24e6f9279c2218a5506ea0632"
+    }
+  ]
+}

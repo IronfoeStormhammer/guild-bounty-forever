@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "schema": 2,
+  "logicChecks": 1496,
+  "mailChecks": 43,
+  "uiChecksPerScenario": 330,
+  "uiScenarios": [
+    "init-failure",
+    "hook-failure",
+    "healthy"
+  ],
+  "roasts": 100,
+  "archiveSHA256": "959e8bcc4f60646c932d16244704b2f0834d9dfa937280d8620fc43de30d3682",
+  "limitations": [
+    "Native rendering and two-client server behavior require in-game verification."
+  ]
+}
