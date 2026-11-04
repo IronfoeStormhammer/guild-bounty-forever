@@ -10,7 +10,7 @@
     "healthy"
   ],
   "roasts": 100,
-  "archiveSHA256": "959e8bcc4f60646c932d16244704b2f0834d9dfa937280d8620fc43de30d3682",
+  "archiveSHA256": "5b6d9ba5800765e4d424bdddd70e3d1863f03711a2992de8d1781a1ccd53ef96",
   "limitations": [
     "Native rendering and two-client server behavior require in-game verification."
   ]

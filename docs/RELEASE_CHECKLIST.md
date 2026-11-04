@@ -1,15 +1,20 @@
-# Guild Bounty Forever 1.2.2 release candidate
+# Public 1.0.0 release checks
 
-Terminal regression checks pass. Complete these live checks before publishing. Record the client build, addon version and results; do not report untested steps as passed.
+Completed terminal checks:
 
-- First login: the addon opens with demo rows, gold target outlines, arrows and readable coach bubbles. Expected controls advance the guide; Next cannot skip action steps. Check that bubbles never cover their targets or footer tabs. Practise demo acceptance, COD Send/receive, listing confirmation, dropdowns and two applied stats. Back/pause/resume work, and Finish restores real rows and any unsaved draft with no test records or native mail changes.
-- /reload after Finish: tutorial stays completed. /gbf help replays from the first interactive step and closing replay preserves completion.
-- Listing: save an exact item; create a rule with character-level bounds and multiple applied stat rows; verify confirmation, sound, edit/remove and Details. Test PvP target capture where public APIs permit.
-- Real two-character COD, both on 1.2.2 and in the same guild: requester lists, supplier obtains/matches, accepts, agrees quantity/price and queues mail. Mailbox opens without auto-attaching; Prepare delivery fills exact stacks/recipient/COD. Native Send succeeds. Both clients show sent status.
-- Requester sees the correlated delivery and manually accepts COD/collects items. No separate addon confirmation is used. Partial attachments stay partial; collecting all completes the claim and reduces the remaining amount once. Supplier sees synchronized receipt/payment status.
-- /reload both clients: sent metadata, receipt quantities and payment decision persist. Collect COD proceeds and verify payout tracking only when the server mail format can be correlated.
-- Failure checks: wrong/unrelated mail never completes a claim; a full-bag or failed collection remains incomplete; rejected send stays unsent; duplicate mail/bag events do not pay twice. Existing mail drafts are preserved.
-- Local real self-mail test is optional and server-dependent. A server rejection must remain unsent and cannot substitute for the two-character test.
-- Packaging: ZIP has one top-level GuildBountyForever folder, correct interface/version/TOC files, docs and no temporary files or SavedVariables. Confirm upload-site metadata and supported-client description match the actual Forever build.
+- TOC interface 16001, schema 2, 21 runtime modules.
+- LuaJIT 5.1 and Lua 5.4 syntax validation.
+- 1,496 logic checks, 43 mail checks, 330 UI checks in each of three native-scrollbar scenarios.
+- Heart dialogue branches, 100 unique roasts and no production mail/data side effects.
+- Installable ZIP has one GuildBountyForever directory and includes the original heart texture.
+- Staged local installation preserves a backup of the preceding addon folder.
 
-Ready to upload after live checks pass; tutorial testing alone is insufficient.
+In-game checks for release maintainers:
+
+- Verify heart artwork, native layout, mouse/keyboard input and sound on the target client.
+- Complete the first-launch tour and replay /gbf help.
+- Create exact-item, multiple-stat rule and PvP listings.
+- With two guild members, verify sync, matching loot, partial COD preparation, manual Send and automatic receipt.
+- Verify rejected mail remains unsent and unrelated inbox activity never completes claims.
+
+A terminal test is not proof of server-specific mail or multiplayer behavior.
