@@ -1,0 +1,14 @@
+name: Validate addon
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y luajit lua5.4
+      - run: python3 tools/validate.py
+      - run: python3 tools/package.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: GuildBountyForever
+          path: dist/*.zip
