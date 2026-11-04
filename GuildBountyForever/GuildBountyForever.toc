@@ -1,0 +1,29 @@
+## Interface: 16001
+## Title: Guild Bounty Forever
+## Notes: Guild item requests, PvP bounties and COD tracking. /gbf help
+## Author: Ironfoe Thundercog
+## Version: 1.0.0
+## SavedVariables: GuildBountyForeverDB
+## OptionalDeps: Blizzard_UIPanelTemplates, Blizzard_ItemButton, Blizzard_MoneyFrame
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+Util.lua
+Codec.lua
+Identity.lua
+Migration.lua
+History.lua
+Models.lua
+Database.lua
+Sync.lua
+Items.lua
+Form.lua
+Claims.lua
+Notifications.lua
+Loot.lua
+PvP.lua
+Mail.lua
+Native.lua
+Support.lua
+UI.lua
+Tutorial.lua
+Debug.lua
+Bootstrap.lua
